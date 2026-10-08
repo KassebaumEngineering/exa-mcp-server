@@ -61,7 +61,7 @@
     "agnost": "^0.2.0",
     "exa-js": "^2.16.0",
     "jose": "^6.2.2",
-    "mcp-handler": "^1.0.4",
+    "mcp-handler": "^1.1.0",
     "zod": "^3.22.4"
   },
   "devDependencies": {
@@ -83,6 +83,9 @@
     "tar": "^7.5.7",
     "axios": "^1.18.1",
     "form-data": "^4.0.6",
-    "fast-uri": "^3.1.5"
+    "fast-uri": "^3.1.5",
+    "mcp-handler": {
+      "@modelcontextprotocol/sdk": "$@modelcontextprotocol/sdk"
+    }
   }
 }
